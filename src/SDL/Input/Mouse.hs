@@ -26,6 +26,7 @@ module SDL.Input.Mouse
   , getCursorVisible
 
     -- * Changing the cursor
+  , Cursor
   , createColorCursor
   , freeCursor
   , setCursor
