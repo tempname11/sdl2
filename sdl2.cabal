@@ -112,8 +112,8 @@ library
     bytestring >= 0.10.4.0 && < 0.11,
     linear >= 1.10.1.2 && < 1.21,
     text >= 1.1.0.0 && < 1.3,
-    transformers >= 0.2 && < 0.5,
-    vector >= 0.10.9.0 && < 0.12
+    transformers >= 0.2 && < 0.6,
+    vector >= 0.10.9.0 && < 0.13
 
   default-language:
     Haskell2010
